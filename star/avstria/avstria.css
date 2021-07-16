@@ -1,0 +1,68 @@
+*{
+    padding: 10;
+    margin: 0;
+    color: whitesmoke;
+    font-family: fantasy;
+}
+
+.ita{
+    height: 300px;
+    align-content: center;
+    float: right;
+    margin: right;
+    width: 500;
+}
+
+h1{
+  text-align: center;
+  font-size: 105px;
+  color: rgb(240, 186, 121);
+  height: 125;
+}
+
+h2{
+  text-align: center;
+  color: aqua;
+  font-size: 45px;
+}
+
+h3{
+  font-size: 22;
+}
+
+.eda{
+    height: 326;
+    align-content: center;
+    float: right;
+    margin: right;
+    width: 460;
+}
+
+.coli{
+  text-align: center;
+  height: 720;
+  width: 1200;
+}
+
+
+
+body{
+  background: url(fran.jpeg) no-repeat center center fixed ;
+  background-size: cover; 
+}
+
+.itaa{
+    height: 450px;
+    align-content: center;
+    float: right;
+    margin: right;
+    width: 650;
+}
+
+
+h5{
+    text-align: center;
+    font-size: 70;
+    height: 90;
+    color: rgb(18, 59, 134);
+}
